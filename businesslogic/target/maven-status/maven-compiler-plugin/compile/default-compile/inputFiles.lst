@@ -1,0 +1,12 @@
+/Users/mykola.dekhtiarenko/Desktop/sportsbetting-be/businesslogic/src/main/java/com/epam/training/sportsbetting/businesslogic/service/DefaultWagerService.java
+/Users/mykola.dekhtiarenko/Desktop/sportsbetting-be/businesslogic/src/main/java/com/epam/training/sportsbetting/businesslogic/service/environment/DefaultPropertyService.java
+/Users/mykola.dekhtiarenko/Desktop/sportsbetting-be/businesslogic/src/main/java/com/epam/training/sportsbetting/businesslogic/service/OutcomeService.java
+/Users/mykola.dekhtiarenko/Desktop/sportsbetting-be/businesslogic/src/main/java/com/epam/training/sportsbetting/businesslogic/service/WagerService.java
+/Users/mykola.dekhtiarenko/Desktop/sportsbetting-be/businesslogic/src/main/java/com/epam/training/sportsbetting/businesslogic/service/DefaultOutcomeOddService.java
+/Users/mykola.dekhtiarenko/Desktop/sportsbetting-be/businesslogic/src/main/java/com/epam/training/sportsbetting/businesslogic/service/DefaultOutcomeService.java
+/Users/mykola.dekhtiarenko/Desktop/sportsbetting-be/businesslogic/src/main/java/com/epam/training/sportsbetting/businesslogic/aop/ServiceLoggingAspect.java
+/Users/mykola.dekhtiarenko/Desktop/sportsbetting-be/businesslogic/src/main/java/com/epam/training/sportsbetting/businesslogic/service/authorization/DefaultUserDetailsService.java
+/Users/mykola.dekhtiarenko/Desktop/sportsbetting-be/businesslogic/src/main/java/com/epam/training/sportsbetting/businesslogic/service/DefaultUserService.java
+/Users/mykola.dekhtiarenko/Desktop/sportsbetting-be/businesslogic/src/main/java/com/epam/training/sportsbetting/businesslogic/service/environment/PropertyService.java
+/Users/mykola.dekhtiarenko/Desktop/sportsbetting-be/businesslogic/src/main/java/com/epam/training/sportsbetting/businesslogic/service/UserService.java
+/Users/mykola.dekhtiarenko/Desktop/sportsbetting-be/businesslogic/src/main/java/com/epam/training/sportsbetting/businesslogic/service/OutcomeOddService.java

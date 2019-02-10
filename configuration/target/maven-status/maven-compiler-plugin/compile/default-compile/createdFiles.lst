@@ -1,0 +1,3 @@
+com/epam/training/sportsbetting/configuration/security/utils/DefaultBasicAuthenticationEntryPoint.class
+com/epam/training/sportsbetting/configuration/security/SpringSecurityConfig.class
+com/epam/training/sportsbetting/configuration/web/WebConfig.class

@@ -1,0 +1,12 @@
+com/epam/training/sportsbetting/businesslogic/service/authorization/DefaultUserDetailsService.class
+com/epam/training/sportsbetting/businesslogic/service/OutcomeService.class
+com/epam/training/sportsbetting/businesslogic/service/OutcomeOddService.class
+com/epam/training/sportsbetting/businesslogic/service/environment/DefaultPropertyService.class
+com/epam/training/sportsbetting/businesslogic/service/DefaultWagerService.class
+com/epam/training/sportsbetting/businesslogic/service/environment/PropertyService.class
+com/epam/training/sportsbetting/businesslogic/service/UserService.class
+com/epam/training/sportsbetting/businesslogic/aop/ServiceLoggingAspect.class
+com/epam/training/sportsbetting/businesslogic/service/WagerService.class
+com/epam/training/sportsbetting/businesslogic/service/DefaultOutcomeService.class
+com/epam/training/sportsbetting/businesslogic/service/DefaultUserService.class
+com/epam/training/sportsbetting/businesslogic/service/DefaultOutcomeOddService.class
