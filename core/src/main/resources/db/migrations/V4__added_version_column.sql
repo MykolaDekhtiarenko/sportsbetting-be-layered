@@ -1,0 +1,1 @@
+ALTER TABLE sport_event ADD version INTEGER(20);

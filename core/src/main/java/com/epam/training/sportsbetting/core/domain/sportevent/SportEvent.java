@@ -6,6 +6,7 @@ import lombok.ToString;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;
+import java.util.ArrayList;
 import java.util.List;
 
 @Data
@@ -27,8 +28,11 @@ public abstract class SportEvent {
     @Column(name = "end_date")
     private LocalDateTime endDate;
 
+    @Version
+    private Integer version;
+
     @ToString.Exclude
     @OneToMany(mappedBy = "sportEvent", cascade = CascadeType.ALL)
-    private List<Bet> bets;
+    private List<Bet> bets = new ArrayList<>();
 
 }
